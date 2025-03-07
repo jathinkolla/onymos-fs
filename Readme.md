@@ -1,7 +1,7 @@
-# Onymos Stock Trading Engine
+# Stock Trading Engine
 
 ## 📌 Overview
-This project is a real-time **Stock Trading Engine** designed as part of the Onymos Hiring coding challenge. It implements an efficient order matching system that processes buy and sell transactions while ensuring **thread safety** and **lock-free** operations.
+This project is a real-time **Stock Trading Engine**. It implements an efficient order matching system that processes buy and sell transactions while ensuring **thread safety** and **lock-free** operations.
 
 The solution adheres to the following requirements:
 - **Supports 1,024 tickers (stocks) being traded**.
